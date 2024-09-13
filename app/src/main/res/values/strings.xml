@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beacon scan</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="example_tags">Id1;Id2;Id3\nId1;Id2;Id3</string>
+    <string name="tags_desc">Ниже заполняется список меток, за которыми требуется следить</string>
+</resources>
